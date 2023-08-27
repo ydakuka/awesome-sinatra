@@ -1,9 +1,8 @@
-awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===============
+# Awesome Sinatra
 
-> A curated list of awesome projects made or inspired with Sinatra.
+> A curated list of awesome things related to Sinatra [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-# Contents
+## Table of Contents
 
 - [General](#general)
 - [Generators](#generators)
@@ -12,7 +11,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Blogging](#blogging)
 - [Boilerplate and Template](#boilerplate-and-template)
 - [Community platform](#community-platform)
-- [Continous Integration](#continous Integration)
+- [Continuous Integration](#continuous-integration)
 - [CMS](#cms)
 - [Debugging and Profiling](#debugging-and-profiling)
 - [Email](#email)
@@ -268,9 +267,3 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [sinatra-hat](https://github.com/nakajima/sinatras-hat) - Easy REST-ful apps with Sinatra. Mount models as web services.
 * [sinatra-reset](https://github.com/blindgaenger/sinatra-rest) - Generates RESTful routes for the models of a 
   Sinatra application (ActiveRecord, DataMapper, Stone)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [coopermaa](http://coopermaa2nd.blogspot.tw/) has waived all copyright and related or neighboring rights to this work.
