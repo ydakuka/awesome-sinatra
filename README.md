@@ -14,7 +14,10 @@
 - [NoSQL](#nosql)
 - [ORM](#orm)
 - [Routers](#routers)
+- [Views](#views)
+- [Middleware](#middleware)
 - [Service Integration](#service-integration)
+- [Stylesheets](#stylesheets)
 - [Testing](#testing)
 - [Writing APIs](#writing-apis)
 
@@ -30,7 +33,9 @@
 
 ## Generators
 
-* [Corneal](https://github.com/thebrianemory/corneal) - A Sinatra app generator with Rails-like simplicity.
+* [corneal](https://github.com/thebrianemory/corneal) - A Sinatra app generator with Rails-like simplicity.
+* [sinator](https://github.com/kuntoaji/sinator) - Sinatra application generator.
+* [hoboken](https://github.com/bnadlerjr/hoboken) - Sinatra project generator and templates.
 
 ## Authentication
 
@@ -39,39 +44,56 @@
 
 ## Boilerplate and Template
 
+* [sinatra-bootstrap](https://github.com/bootstrap-ruby/sinatra-bootstrap) - A demonstrator for Sinatra and Twitter's Bootstrap.
+* [simple-sinatra-mvc](https://github.com/kathgironpe/simple-sinatra-mvc) - Simple Sinatra MVC template.
 * [sinatra_boilerplate](https://github.com/reedstonefood/sinatra_boilerplate) - Basic template Sinatra website, with Twitter Bootstrap and ActiveRecord.
+* [sinatras-skeleton](https://github.com/simonneutert/sinatras-skeleton) - Basic Sinatra Skeleton MVC CRUD App with Sprockets, Warden, ActiveRecord and PostgreSQL.
+* [scoop](https://github.com/abhinavs/scoop) - A production-ready Sinatra boilerplate project using Corneal, ActiveRecord, Capistrano, Puma & Nginx.
+* [sinatra-activerecord-starter-kit](https://github.com/LaunchAcademy/sinatra-activerecord-starter-kit) - Sinatra Active Record Starter Kit.
 
 ## CMS
 
-* [Nesta](https://github.com/gma/nesta) - A lightweight CMS, implemented in Sinatra. Content can be written
+* [nesta](https://github.com/gma/nesta) - A lightweight CMS, implemented in Sinatra. Content can be written
   in Markdown or Textile and stored in text file
 
 ## File Uploading
 
-* [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) - A classier solution for file uploads for Rails,
+* [carrierwave](https://github.com/carrierwaveuploader/carrierwave) - A classier solution for file uploads for Rails,
   Sinatra and other Ruby web frameworks.
 
 ## Micro Frameworks inspired by Sinatra
 
-* [Nancy](https://github.com/guilleiguaran/nancy) - Minimal Ruby microframework for web development inspired in Sinatra and Cuba.
+* [nancy](https://github.com/guilleiguaran/nancy) - Minimal Ruby microframework for web development inspired in Sinatra and Cuba.
 * [padrino](https://github.com/padrino/padrino-framework) - Padrino is a full-stack ruby framework built upon Sinatra.
-* [Rack::App](https://github.com/rack-app/rack-app) - Minimalist framework for building rack applications.
-* [Scorched](https://github.com/Wardrop/Scorched) - Light-weight, DRY as a desert, web framework for Ruby.
+* [rack::app](https://github.com/rack-app/rack-app) - Minimalist framework for building rack applications.
+* [scorched](https://github.com/wardrop/scorched) - Light-weight, DRY as a desert, web framework for Ruby.
 
 ## NoSQL
 
 > Key-value
 
 * [redis-sinatra](https://github.com/redis-store/redis-sinatra) - Redis stores for Sinatra.
+* [redis_dashboard](https://github.com/BaseSecrete/redis_dashboard) - Sinatra app to monitor Redis servers.
 
 ## ORM
 
 * [sinatra-activerecord](https://github.com/sinatra-activerecord/sinatra-activerecord) - Extends Sinatra with ActiveRecord helper methods and Rake tasks.
+* [otr-activerecord](https://github.com/jhollinger/otr-activerecord) - Off The Rails: Use ActiveRecord with Grape, Sinatra, Rack, or anything else!
 
 ## Routers
 
 * [sinatra-router](https://github.com/brandur/sinatra-router) - A tiny vendorable router that makes it 
   easy to try routes from a number of different modular Sinatra applications.
+* [sinatra-subdomain](https://github.com/fnando/sinatra-subdomain) - Separate routes for subdomains in Sinatra apps.
+* [yard-sinatra](https://github.com/rkh/yard-sinatra) - Display sinatra routes in yard documentation.
+
+## Views
+
+* [sinatra-partial](https://github.com/yb66/Sinatra-Partial) - Partials for Sinatra!
+
+## Middleware
+
+* [amnesia](https://github.com/benschwarz/amnesia) - A Sinatra rack middleware that presents memcached server stats.
 
 ## Service Integration
 
@@ -84,6 +106,11 @@
 * [shopify-sinatra-app](https://github.com/kevinhughes27/shopify-sinatra-app) - Lightweight extension for
   building Shopify apps using Sinatra
 
+## Stylesheets
+
+* [sinatra-asset-pipeline](https://github.com/kalasjocke/sinatra-asset-pipeline) - An asset pipeline for Sinatra based on Sprockets.
+* [sprockets-helpers](https://github.com/petebrowne/sprockets-helpers) - Asset path helpers for Sprockets 2.0 applications.
+
 ## Testing
 
 * [mock_server](https://github.com/mvemjsun/mock_server) - A lightweight Sinatra application backed by sqlite that can mock ReST responses.
@@ -92,3 +119,4 @@
 ## Writing APIs
 
 * [Pliny](https://github.com/interagent/pliny) - An opinionated toolkit for writing excellent APIs in Ruby.
+* [sinatra-jsonp](https://github.com/shtirlic/sinatra-jsonp) - JSONP output helper for Sinatra.
