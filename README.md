@@ -8,6 +8,7 @@
 - [Generators](#generators)
 - [Authentication](#authentication)
 - [Boilerplate and Template](#boilerplate-and-template)
+- [Concurrency](#concurrency)
 - [CMS](#cms)
 - [File Uploading](#file-uploading)
 - [Micro Frameworks inspired by Sinatra](#micro-frameworks-inspired-by-sinatra)
@@ -15,6 +16,7 @@
 - [ORM](#orm)
 - [Routers](#routers)
 - [Views](#views)
+- [Validation & Type Coercion](#validation--type-coercion)
 - [Middleware](#middleware)
 - [Service Integration](#service-integration)
 - [Stylesheets](#stylesheets)
@@ -52,6 +54,11 @@
 * [sinatras-skeleton](https://github.com/simonneutert/sinatras-skeleton) - Basic Sinatra Skeleton MVC CRUD App with Sprockets, Warden, ActiveRecord and PostgreSQL.
 * [scoop](https://github.com/abhinavs/scoop) - A production-ready Sinatra boilerplate project using Corneal, ActiveRecord, Capistrano, Puma & Nginx.
 * [sinatra-activerecord-starter-kit](https://github.com/LaunchAcademy/sinatra-activerecord-starter-kit) - Sinatra Active Record Starter Kit.
+
+## Concurrency
+
+- [async_sinatra](https://github.com/raggi/async_sinatra) - A plugin for Sinatra to provide a DSL extension
+  for using Thin for asynchronous responses.
 
 ## CMS
 
@@ -92,6 +99,10 @@
 ## Views
 
 * [sinatra-partial](https://github.com/yb66/Sinatra-Partial) - Partials for Sinatra!
+
+## Validation & Type Coercion
+
+* [sinatra-param](https://github.com/mattt/sinatra-param) - Parameter Validation & Type Coercion for Sinatra.
 
 ## Middleware
 
