@@ -41,6 +41,8 @@
 
 * [sinatra_warden](https://github.com/wardencommunity/sinatra_warden) - Authentication module for sinatra and some auth helpers.
 * [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - Doorkeeper is an OAuth 2 provider.
+* [sinatra_omniauth](https://github.com/cjheath/sinatra_omniauth) - A Sinatra extension that provides pure OmniAuth goodness
+  to your application (with DataMapper).
 
 ## Boilerplate and Template
 
