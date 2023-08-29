@@ -19,6 +19,7 @@
 - [Validation & Type Coercion](#validation--type-coercion)
 - [Middleware](#middleware)
 - [Service Integration](#service-integration)
+- [Server Side Rendering](#server-side-rendering)
 - [Stylesheets](#stylesheets)
 - [Testing](#testing)
 - [Writing APIs](#writing-apis)
@@ -54,6 +55,7 @@
 * [sinatras-skeleton](https://github.com/simonneutert/sinatras-skeleton) - Basic Sinatra Skeleton MVC CRUD App with Sprockets, Warden, ActiveRecord and PostgreSQL.
 * [scoop](https://github.com/abhinavs/scoop) - A production-ready Sinatra boilerplate project using Corneal, ActiveRecord, Capistrano, Puma & Nginx.
 * [sinatra-activerecord-starter-kit](https://github.com/LaunchAcademy/sinatra-activerecord-starter-kit) - Sinatra Active Record Starter Kit.
+* [sinatra-mongodb-grape](https://github.com/kathgironpe/sinatra-mongodb-grape) - Sinatra, MongoDB and Grape Template.
 
 ## Concurrency
 
@@ -95,10 +97,16 @@
   easy to try routes from a number of different modular Sinatra applications.
 * [sinatra-subdomain](https://github.com/fnando/sinatra-subdomain) - Separate routes for subdomains in Sinatra apps.
 * [yard-sinatra](https://github.com/rkh/yard-sinatra) - Display sinatra routes in yard documentation.
+* [sinatra-mapping](https://github.com/hallison/sinatra-mapping) - Sinatra::Mapping extension is a minimal module that is useful
+  for create map names for Sinatra web application.
 
 ## Views
 
 * [sinatra-partial](https://github.com/yb66/Sinatra-Partial) - Partials for Sinatra!
+* [kaminari-sinatra](https://github.com/kaminari/kaminari-sinatra) - Kaminari Sinatra adapter.
+* [sinatra-flash](https://github.com/SFEley/sinatra-flash) - Flash messages for the Sinatra.
+* [sinatra-redirect-with-flash](https://github.com/vast/sinatra-redirect-with-flash) - Provides redirect helper
+  that can set proper flash before the redirection.
 
 ## Validation & Type Coercion
 
@@ -117,7 +125,11 @@
 > MISC
 
 * [shopify-sinatra-app](https://github.com/kevinhughes27/shopify-sinatra-app) - Lightweight extension for
-  building Shopify apps using Sinatra
+  building Shopify apps using Sinatra.
+
+## Server Side Rendering
+
+* [react-sinatra](https://github.com/namusyaka/react-sinatra) - React on Sinatra Integration, Server Side Rendering.
 
 ## Stylesheets
 
@@ -133,3 +145,5 @@
 
 * [Pliny](https://github.com/interagent/pliny) - An opinionated toolkit for writing excellent APIs in Ruby.
 * [sinatra-jsonp](https://github.com/shtirlic/sinatra-jsonp) - JSONP output helper for Sinatra.
+* [sinatra-rest-api](https://github.com/blocknotes/sinatra-rest-api) - Sinatra REST API generator.
+* [sinja](https://github.com/mwpastore/sinja) - RESTful, {json:api}-compliant web services in Sinatra.
