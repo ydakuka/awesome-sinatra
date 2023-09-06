@@ -18,6 +18,7 @@
 - [Views](#views)
 - [Validation & Type Coercion](#validation--type-coercion)
 - [Middleware](#middleware)
+- [Security](#security)
 - [Service Integration](#service-integration)
 - [Server Side Rendering](#server-side-rendering)
 - [Stylesheets](#stylesheets)
@@ -115,6 +116,11 @@
 ## Middleware
 
 * [amnesia](https://github.com/benschwarz/amnesia) - A Sinatra rack middleware that presents memcached server stats.
+* [rack_csrf](https://github.com/baldowl/rack_csrf) - Anti-CSRF Rack middleware.
+
+## Security
+
+* [encrypted_cookie](https://github.com/cvonkleist/encrypted_cookie) - AES-128 encrypted session cookies for Rack (and Sinatra and other frameworks).
 
 ## Service Integration
 
