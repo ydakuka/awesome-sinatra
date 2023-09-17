@@ -146,6 +146,7 @@
 
 * [mock_server](https://github.com/mvemjsun/mock_server) - A lightweight Sinatra application backed by sqlite that can mock ReST responses.
   Has interface to easily create, search & maintain mocks. No need to program mocks into a language specific implementation.
+* [rack-test](https://github.com/rack/rack-test) - Rack::Test is a small, simple testing API for Rack apps.
 
 ## Writing APIs
 
