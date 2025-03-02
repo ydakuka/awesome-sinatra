@@ -32,7 +32,7 @@
 * [Sinatra Recipes](https://github.com/sinatra/sinatra-recipes) - Community contributed recipes and techniques.
 * [Sinatra - The Book](https://github.com/sinatra/sinatra-book) - A cookbook full of excellent tutorials
   and recipes for developing Sinatra web applications.
-* [Sinatra in the wild](https://github.com/sinatra/sinatra.github.com/blob/master/wild.markdown) - Various
+* [Sinatra in the wild](https://github.com/sinatra/sinatra.github.com/blob/main/wild.markdown) - Various
   applications, extensions and websites built with Sinatra.
 
 ## Generators
@@ -51,12 +51,10 @@
 ## Boilerplate and Template
 
 * [sinatra-bootstrap](https://github.com/bootstrap-ruby/sinatra-bootstrap) - A demonstrator for Sinatra and Twitter's Bootstrap.
-* [simple-sinatra-mvc](https://github.com/kathgironpe/simple-sinatra-mvc) - Simple Sinatra MVC template.
 * [sinatra_boilerplate](https://github.com/reedstonefood/sinatra_boilerplate) - Basic template Sinatra website, with Twitter Bootstrap and ActiveRecord.
 * [sinatras-skeleton](https://github.com/simonneutert/sinatras-skeleton) - Basic Sinatra Skeleton MVC CRUD App with Sprockets, Warden, ActiveRecord and PostgreSQL.
 * [scoop](https://github.com/abhinavs/scoop) - A production-ready Sinatra boilerplate project using Corneal, ActiveRecord, Capistrano, Puma & Nginx.
 * [sinatra-activerecord-starter-kit](https://github.com/LaunchAcademy/sinatra-activerecord-starter-kit) - Sinatra Active Record Starter Kit.
-* [sinatra-mongodb-grape](https://github.com/kathgironpe/sinatra-mongodb-grape) - Sinatra, MongoDB and Grape Template.
 
 ## Concurrency
 
