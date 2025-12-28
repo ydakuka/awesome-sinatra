@@ -107,6 +107,7 @@
 
 ## Views
 
+* [tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines.
 * [sinatra-partial](https://github.com/yb66/Sinatra-Partial) - Partials for Sinatra!
 * [kaminari-sinatra](https://github.com/kaminari/kaminari-sinatra) - Kaminari Sinatra adapter.
 * [sinatra-flash](https://github.com/SFEley/sinatra-flash) - Flash messages for the Sinatra.
