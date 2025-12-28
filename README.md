@@ -38,8 +38,6 @@
 
 ## Code Reloading
 
-> **Note:** The code you changed will not take effect until you restart the server. Please restart the server every time you change or use a code reloader like rerun or rack-unreloader.
-
 * [rerun](https://github.com/alexch/rerun) - Restarts your app when a file changes.
 * [rack-unreloader](https://github.com/jeremyevans/rack-unreloader) - Automatic reloading of Rack applications in development.
 
