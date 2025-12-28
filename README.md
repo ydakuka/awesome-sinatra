@@ -43,7 +43,7 @@
 
 ## Generators
 
-* [corneal](https://github.com/thebrianemory/corneal) - A Sinatra app generator with Rails-like simplicity.
+* [blue-eyes](https://github.com/scarver2/blue-eyes) - A Sinatra app generator with Rails-like simplicity.
 * [sinator](https://github.com/kuntoaji/sinator) - Sinatra application generator.
 * [hoboken](https://github.com/bnadlerjr/hoboken) - Sinatra project generator and templates.
 
@@ -133,11 +133,6 @@
 > Slack
 
 * [snarkov](https://github.com/gesteves/snarkov) - A hilarious Sinatra-based Markov bot for Slack.
-
-> MISC
-
-* [shopify-sinatra-app](https://github.com/kevinhughes27/shopify-sinatra-app) - Lightweight extension for
-  building Shopify apps using Sinatra.
 
 ## Server Side Rendering
 
