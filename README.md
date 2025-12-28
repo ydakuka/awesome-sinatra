@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [General](#general)
+- [Code Reloading](#code-reloading)
 - [Generators](#generators)
 - [Authentication](#authentication)
 - [Boilerplate and Template](#boilerplate-and-template)
@@ -34,6 +35,13 @@
   and recipes for developing Sinatra web applications.
 * [Sinatra in the wild](https://github.com/sinatra/sinatra.github.com/blob/main/wild.markdown) - Various
   applications, extensions and websites built with Sinatra.
+
+## Code Reloading
+
+> **Note:** The code you changed will not take effect until you restart the server. Please restart the server every time you change or use a code reloader like rerun or rack-unreloader.
+
+* [rerun](https://github.com/alexch/rerun) - Restarts your app when a file changes.
+* [rack-unreloader](https://github.com/jeremyevans/rack-unreloader) - Automatic reloading of Rack applications in development.
 
 ## Generators
 
