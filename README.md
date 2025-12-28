@@ -120,6 +120,8 @@
 
 ## Middleware
 
+* [rack-contrib](https://github.com/rack/rack-contrib) - Contributed Rack Middleware and Utilities.
+* [rack-cache](https://github.com/rack/rack-cache) - HTTP caching middleware for Rack-based applications.
 * [amnesia](https://github.com/benschwarz/amnesia) - A Sinatra rack middleware that presents memcached server stats.
 * [rack_csrf](https://github.com/baldowl/rack_csrf) - Anti-CSRF Rack middleware.
 * [rack-insight](https://github.com/pboling/rack-insight) - Debugging toolbar for Rack applications implemented as middleware.
