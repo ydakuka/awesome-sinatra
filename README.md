@@ -128,6 +128,7 @@
 
 * [rack-contrib](https://github.com/rack/rack-contrib) - Contributed Rack Middleware and Utilities.
 * [rack-cache](https://github.com/rack/rack-cache) - HTTP caching middleware for Rack-based applications.
+* [rack-session](https://github.com/rack/rack-session) - Session management implementation for Rack.
 * [amnesia](https://github.com/benschwarz/amnesia) - A Sinatra rack middleware that presents memcached server stats.
 * [rack_csrf](https://github.com/baldowl/rack_csrf) - Anti-CSRF Rack middleware.
 * [rack-insight](https://github.com/pboling/rack-insight) - Debugging toolbar for Rack applications implemented as middleware.
@@ -136,6 +137,7 @@
 
 * [encrypted_cookie](https://github.com/cvonkleist/encrypted_cookie) - AES-128 encrypted session cookies for Rack (and Sinatra and other frameworks).
 * [sinatra-cors](https://github.com/jdesrosiers/sinatra-cors) - CORS support for Sinatra applications.
+* [rack-cors](https://github.com/cyu/rack-cors) - Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.
 
 ## Service Integration
 
