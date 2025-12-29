@@ -12,6 +12,7 @@
 - [Concurrency](#concurrency)
 - [CMS](#cms)
 - [File Uploading](#file-uploading)
+- [Email](#email)
 - [Micro Frameworks inspired by Sinatra](#micro-frameworks-inspired-by-sinatra)
 - [NoSQL](#nosql)
 - [ORM](#orm)
@@ -77,6 +78,10 @@
 * [carrierwave](https://github.com/carrierwaveuploader/carrierwave) - A classier solution for file uploads for Rails,
   Sinatra and other Ruby web frameworks.
 
+## Email
+
+* [pony](https://github.com/benprew/pony) - The express way to send mail from Ruby.
+
 ## Micro Frameworks inspired by Sinatra
 
 * [nancy](https://github.com/guilleiguaran/nancy) - Minimal Ruby microframework for web development inspired in Sinatra and Cuba.
@@ -110,6 +115,7 @@
 * [tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines.
 * [sinatra-partial](https://github.com/yb66/Sinatra-Partial) - Partials for Sinatra!
 * [kaminari-sinatra](https://github.com/kaminari/kaminari-sinatra) - Kaminari Sinatra adapter.
+* [rack-flash](https://github.com/treeder/rack-flash) - Flash messages for Rack applications implemented as middleware.
 * [sinatra-flash](https://github.com/SFEley/sinatra-flash) - Flash messages for the Sinatra.
 * [sinatra-redirect-with-flash](https://github.com/vast/sinatra-redirect-with-flash) - Provides redirect helper
   that can set proper flash before the redirection.
