@@ -135,6 +135,7 @@
 ## Security
 
 * [encrypted_cookie](https://github.com/cvonkleist/encrypted_cookie) - AES-128 encrypted session cookies for Rack (and Sinatra and other frameworks).
+* [sinatra-cors](https://github.com/jdesrosiers/sinatra-cors) - CORS support for Sinatra applications.
 
 ## Service Integration
 
